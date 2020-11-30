@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 369f03ce0500d4ef183e022a593f812b, type: 3}
+  m_Name: BuildingDatabase
+  m_EditorClassIdentifier: 
+  Towers:
+  - {fileID: 6357538609960138744, guid: 22dc9749d0f31494990dee9f6b103fd2, type: 3}
+  - {fileID: 6357538609960138744, guid: 5d725180aacc647608f876a23513d670, type: 3}
+  - {fileID: 6357538609960138744, guid: 961893b3de1b1434fb8748a8758c2d62, type: 3}
+  - {fileID: 6357538609960138744, guid: f7fd4151aa25b4f5a9555d478eba1605, type: 3}
+  - {fileID: 6357538609960138744, guid: df3a71cf72117453980d8f53cddde29f, type: 3}
+  - {fileID: 4654439905883900651, guid: 1d559642d9acb41e6b3887d89b642878, type: 3}
+  - {fileID: 4654439905883900651, guid: cbcbb0f41262e46f2b324f09faad5804, type: 3}
+  - {fileID: 4654439905883900651, guid: 5ef6478380c9649629d0a17da7217603, type: 3}
+  - {fileID: 4654439905883900651, guid: d0155e857e17c41f7aa83ef3c68d89db, type: 3}
+  - {fileID: 4654439905883900651, guid: f93f6936913ef48ed99f0c30f2942e97, type: 3}
+  Profiles:
+  - {fileID: 11400000, guid: ccff10998df5f4dc9a74ae2beaee86c4, type: 2}
+  - {fileID: 11400000, guid: fe5b1dfde2410419a9ddd5ccebfb2c48, type: 2}
+  - {fileID: 11400000, guid: 1713397c3f10f468b8290dc9a0bb130b, type: 2}
+  - {fileID: 11400000, guid: 21b0e8c27a73041f7b8dbe2e3c847b04, type: 2}
+  - {fileID: 11400000, guid: ff17d1be8238c4840a4fbded6a727d8d, type: 2}
+  - {fileID: 11400000, guid: 9a871ed56d8fa4028ac8e46c3ec08dec, type: 2}
+  - {fileID: 11400000, guid: 55aaea85c175f4e629fe7daa7153b858, type: 2}
+  - {fileID: 11400000, guid: e4912d625342344538dd84f653142622, type: 2}
+  - {fileID: 11400000, guid: 1cca016222d984ac5b434403f61e1d46, type: 2}
+  - {fileID: 11400000, guid: f50e5c13add6340ad8cd9484bd913952, type: 2}

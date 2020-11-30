@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e4e72a5f8ef541c1a3e175fdc17186b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buildingDatabase: {fileID: 11400000, guid: 4d1794b06ef414d6693cebccc72c1114, type: 2}
+  - PreviewMat: {fileID: 2100000, guid: 255b2e3b21111424d93c8b8de1231c07, type: 2}
+  - startAsset: {fileID: 11400000, guid: c2fb24e0bd3b04f91b514d00fc83f40b, type: 2}
+  - BuildButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
